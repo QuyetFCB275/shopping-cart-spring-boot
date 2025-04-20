@@ -167,7 +167,7 @@ public class HomeController {
 			}
 		}
 
-		return "redirect:/register";
+		return "redirect:/signin";
 	}
 
 //	Forgot Password Code 
